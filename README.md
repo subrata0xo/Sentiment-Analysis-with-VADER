@@ -1,7 +1,7 @@
 
-#Sentiment Analysis of Product Reviews using VADER
+**Sentiment Analysis of Product Reviews using VADER**
 
-Project Overview
+## **Project Overview**
 
 This project performs sentiment analysis on a dataset of product reviews to classify them as **positive, negative, or neutral**. The analysis is done using the **VADER (Valence Aware Dictionary for sEntiment Reasoning)** sentiment analysis tool from the NLTK library, which is particularly effective for short texts such as social media posts or reviews. The goal is to understand customer opinions, visualize trends, and identify the overall sentiment distribution.
 
@@ -66,6 +66,4 @@ This project performs sentiment analysis on a dataset of product reviews to clas
 
 This project demonstrates how **VADER Sentiment Analysis** can be used to process and interpret large volumes of product reviews efficiently. Businesses can leverage such analysis to monitor customer satisfaction, track changes over time, and improve their products or services.
 
----
 
-If you want, I can also rewrite this into a **LinkedIn-friendly project description** so you can post it as part of your portfolio.
