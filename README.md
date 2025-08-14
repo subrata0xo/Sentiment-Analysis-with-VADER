@@ -1,4 +1,3 @@
-
 #Sentiment Analysis of Product Reviews using VADER
 
 ## **Project Overview**
