@@ -45,6 +45,7 @@ This project performs sentiment analysis on a dataset of product reviews to clas
   * **Neutral** otherwise
 * Applied the function to the `Text` column to create a new `Sentiment` column.
 * Visualized sentiment distribution using a bar plot.
+<img width="566" height="393" alt="Image" src="https://github.com/user-attachments/assets/72f65acf-2d48-4844-87a6-3bb9e5631c96" />
 
 ---
 
