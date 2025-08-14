@@ -29,8 +29,9 @@ This project performs sentiment analysis on a dataset of product reviews to clas
 ### **3. Exploratory Data Analysis (EDA)**
 
 * **Rating Distribution:** A count plot shows how reviews are distributed across rating scores.
-* **Trend Over Time:** A line plot shows the number of reviews per year, helping identify growth patterns in customer engagement.
 <img width="566" height="393" alt="Image" src="https://github.com/user-attachments/assets/9fca0cf0-5f0b-4c2e-ab66-b331162d50fd" />
+
+* **Trend Over Time:** A line plot shows the number of reviews per year, helping identify growth patterns in customer engagement.
 <img width="566" height="393" alt="Image" src="https://github.com/user-attachments/assets/9913d92e-48bd-46c0-8d35-825673116773" />
 
 ---
