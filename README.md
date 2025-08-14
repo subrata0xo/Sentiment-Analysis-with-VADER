@@ -53,6 +53,7 @@ This project performs sentiment analysis on a dataset of product reviews to clas
 
 * Generated separate word clouds for **positive** and **negative** reviews.
 * Positive reviews often feature words like *“love”, “great”, “best”*, while negative ones include words like *“bad”, “disappointed”, “waste”*.
+<img width="989" height="281" alt="Image" src="https://github.com/user-attachments/assets/cef13e92-4c52-41a3-a838-ff328076472c" />
 
 ---
 
